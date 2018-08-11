@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZipGoAssignment</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="nearest_point">Nearest Points</string>
+    <string name="animate_on_map">Animate on Map</string>
+    <string name="delete_desc">Delete a place</string>
+    <string name="nearest_point_heading">The following two points are nearest to each other</string>
+    <string name="google_maps_key">AIzaSyB-7cGNDT86bf4MVE5rSIG8IiD2om0dys0</string>
+</resources>
